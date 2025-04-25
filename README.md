@@ -13,7 +13,7 @@ I will be uploading dashboards **one by one** as I complete them. Each dashboard
 
 ## ✅ Completed Dashboards
 
-1. 
+1. Vrinda Store (https://github.com/Shivam-DataAnalytics/Excel-Dashboards/tree/main/1_Vrinda_store)
 > This table will be updated as new dashboards are added.
 
 ## 🛠️ Tools & Features Used

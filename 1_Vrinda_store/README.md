@@ -8,7 +8,7 @@ This dashboard gives a complete view of Vrinda Store's performance in 2022, cove
 
 ## 📸 Dashboard Preview
 
-[![Vrinda Store Dashboard](858120e8-2327-42ed-b27c-a0ce28de0fd8.png)](https://your-link-here.com)
+- ![Dashboard Image](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/blob/main/1_Vrinda_store/Vrinda_Store_Dasboard.png)
 
 > Click the image to open or download the full dashboard.
 
@@ -35,19 +35,10 @@ This dashboard gives a complete view of Vrinda Store's performance in 2022, cove
 ---
 
 ## 📂 Files
+- [Full Excel file](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/blob/main/1_Vrinda_store/vrinda_dataset.xlsx)
+- ![Dashboard Image](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/blob/main/1_Vrinda_store/Vrinda_Store_Dasboard.png)
 
-- `Vrinda_store_dashboard.xlsx` — Full Excel file.
-- `858120e8-2327-42ed-b27c-a0ce28de0fd8.png` — Dashboard image.
 
----
-
-## 🚀 How To Use
-
-1. Open the Excel file.
-2. Use the slicers to filter by Month, Channel, or Product Category.
-3. Explore different insights and trends easily with a few clicks.
-
----
 
 ## ✨ Why This Dashboard?
 
