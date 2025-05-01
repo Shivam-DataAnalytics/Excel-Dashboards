@@ -19,7 +19,7 @@ I will be uploading dashboards **one by one** as I complete them. Each dashboard
 ### 1. [Vrinda Store Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/tree/main/1_Vrinda_store)  
 An Excel dashboard tracking sales performance and category-wise analysis for a fashion and lifestyle retail store. Includes key KPIs, trend charts, and product segment breakdown.
 
-### 2. [Coffee Shop Sales Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/tree/main/2_Coffee_Shop_Sales)  
+### 2. [Coffee Shop Sales Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/tree/main/2_Coffee%20Shop%20Sales)  
 A visually rich dashboard highlighting coffee shop metrics such as sales by category, customer footfall, top-selling products, and hourly trends. Ideal for understanding customer behavior and sales patterns.
 
 > This table will be updated as new dashboards are added.
