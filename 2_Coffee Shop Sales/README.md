@@ -55,7 +55,7 @@ This dashboard provides a comprehensive visualization of sales performance, cust
 
 ## 🖼️ Image Preview
 
-![Dashboard Preview](./d78fb92f-4193-49cb-8c10-9827b594f350.png)
+![Dashboard Preview](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/blob/main/2_Coffee%20Shop%20Sales/Coffee_sales_Dashboard.png)
 
 ---
 
@@ -70,15 +70,15 @@ This dashboard is based on sales transaction data from a hypothetical coffee sho
 
 > 📎 If this dashboard is based on a real dataset, you can include the original source link here. For now, replace the following placeholder with your dataset link:
 
-**[🔗 Data Source (placeholder)](https://example.com/coffee-shop-sales-data)**
+**[🔗 Data Source (placeholder)](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/blob/main/2_Coffee%20Shop%20Sales/Coffee%20Shop%20Sales.xlsx)**
 
 ---
 
 ## 📌 Tools Used
 
-Microsoft Excel 
-Custom color palette
-Pivot tables, filters, and charts
+- Microsoft Excel 
+- Custom color palette
+- Pivot tables, filters, and charts
 
 ---
 
