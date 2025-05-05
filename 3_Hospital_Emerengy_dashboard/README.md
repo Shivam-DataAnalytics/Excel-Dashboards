@@ -54,10 +54,7 @@ You can download the dataset used in this dashboard from the link below:
 1. Open the `.xlsx` file in Microsoft Excel.
 2. Use the slicers to filter data based on gender, race, department, and date.
 3. View dynamic updates in visualizations and summary metrics.
-
-## 👨‍💻 Author
-
-**Shivam Kumar Mahto**  
+  
 
 ---
 
