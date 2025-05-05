@@ -1,58 +1,63 @@
-🏥 Hospital Emergency Dashboard - Excel
-📊 Overview
-This Excel dashboard provides an interactive and visual analysis of emergency department data. It is designed to help hospital administrators monitor key metrics, evaluate department performance, and improve patient care.
+# 🏥 Hospital Emergency Dashboard
 
-📁 File Contents
-Hospital ER Dataset: 
+This interactive Excel dashboard provides a comprehensive overview of hospital emergency department activity, built for analyzing patient demographics, wait times, and departmental performance.
 
-Dashboard: Interactive charts, KPIs, and slicers for filtering and exploring the data.
+## 📊 Key Features
 
-📌 Key Features
-🔍 Filters/Slicers:
-Department Referral
+- **Interactive Filters:** Easily slice data by:
+  - Department referral
+  - Year & Date range
+  - Patient gender and race
+- **Data Insights:**
+  - Total number of patients and average statistics
+  - Monthly patient visit trends
+  - Patient distribution across departments
+  - Average wait time per department
+  - Gender & race distribution
+  - Patient satisfaction scores
 
-Patient Gender
+## 📈 Dashboard Metrics
 
-Patient Race
+- Total Patients: `9,216`
+- Average Age: `40`
+- Average Wait Time: `35.26 minutes`
+- Patient Satisfaction Score: `4.99/5`
 
-Date (Year)
+## 📁 Tools Used
 
-📈 Charts Included:
-Line Chart: Patients Visit Over Time (Monthly trend)
+- **Microsoft Excel**
+  - Pivot Tables
+  - Slicers & Filters
+  - Charts (Bar, Line, Pie)
+  - Conditional Formatting
 
-Bar Chart: Patient Count by Department
+## 🔗 Data Source
 
-Donut Chart: Gender Distribution of Patients
+You can download the dataset used in this dashboard from the link below:
 
-Horizontal Bar: Average Wait Time by Department
+👉 [Download Hospital Emergency Data](https://github.com/Shivam-DataAnalytics/Excel-Dashboards-Basic-/blob/main/3_Hospital_Emerengy_dashboard/Hospital_data.xlsx)
 
-Column Chart: Patient Satisfaction by Department
 
-Bar Chart: Race-wise Patient Distribution
+## 📷 Preview
 
-📊 KPIs:
-Total Patients
+![Hospital Emergency Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards-Basic-/blob/main/3_Hospital_Emerengy_dashboard/Hospital_data.png)
 
-Average Age
+## ✅ Insights Gained
 
-Average Wait Time
+- Majority of patients are referred to "General Practice" or not tagged with any department.
+- Balanced gender distribution (~49% Female, ~51% Male).
+- Most patients are White or African American.
+- Departments like Neurology and Physiotherapy have the highest average wait times.
 
-Average Satisfaction Score
+## 📥 How to Use
 
-⚙️ How to Use
-Use the Slicers on the left to filter the dashboard by gender, race, department, or year.
+1. Open the `.xlsx` file in Microsoft Excel.
+2. Use the slicers to filter data based on gender, race, department, and date.
+3. View dynamic updates in visualizations and summary metrics.
 
-Observe KPIs and Charts update dynamically as you apply filters.
+## 👨‍💻 Author
 
-Interact with the PivotTable Fields if needed by right-clicking and selecting "Show Field List".
+**Shivam Kumar Mahto**  
 
-To Refresh Data: Go to Data tab → click Refresh All.
+---
 
-🎨 Design Notes
-Color Scheme: Light gray background with white card containers.
-
-Fonts: Clear, professional fonts for readability.
-
-Layout: Clean and spaced for ease of interpretation.
-
-Icons: Medical icon used for a professional hospital theme.

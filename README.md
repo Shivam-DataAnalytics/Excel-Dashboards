@@ -22,6 +22,10 @@ An Excel dashboard tracking sales performance and category-wise analysis for a f
 ### 2. [Coffee Shop Sales Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards/tree/main/2_Coffee%20Shop%20Sales)  
 A visually rich dashboard highlighting coffee shop metrics such as sales by category, customer footfall, top-selling products, and hourly trends. Ideal for understanding customer behavior and sales patterns.
 
+### 3. [Hospital Emergency Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards-Basic-/tree/main/3_Hospital_Emerengy_dashboard)  
+An interactive Excel dashboard visualizing emergency patient data, gender and race distribution, department-wise visits, wait times, and satisfaction scores. Offers insights into healthcare load and demographics.
+
+
 > This table will be updated as new dashboards are added.
 
 ---
